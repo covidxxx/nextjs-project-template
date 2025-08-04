@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- MAE Wallet Theme Colors -->
+    <color name="primary_yellow">#FFD700</color>
+    <color name="secondary_yellow">#FFC107</color>
+    <color name="gradient_start">#FFE082</color>
+    <color name="gradient_end">#FFC107</color>
+    
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_on_primary">#000000</color>
+    
+    <color name="background">#F5F5F5</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="card_background">#FFFFFF</color>
+    
+    <color name="blue_accent">#2196F3</color>
+    <color name="red_new_badge">#F44336</color>
+    <color name="orange_promo_badge">#FF5722</color>
+    
+    <color name="bottom_nav_background">#424242</color>
+    <color name="bottom_nav_selected">#FFD700</color>
+    <color name="bottom_nav_unselected">#9E9E9E</color>
+</resources>
